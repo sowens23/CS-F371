@@ -16,14 +16,16 @@ The program `da6.hpp` is designed to demonstrate two key functionalities: effici
   - The struct `LLNode2<ValType>` defines a node containing a value and a unique pointer to the next node.
   - Helper functions like `size()`, `push_front()`, and `pop_front()` provide linked list operations like counting nodes, adding to the front, and removing nodes.
 
-	![Diagram of LLNode2](llnode_hpp.svg)
+	![Diagram of LLNode2](llnode.svg)
 
 #### `da6.hpp` Overview
 - **Purpose**: Implements two main features: reversing a linked list and creating an associative data container called `SlowMap`.
 - **Key Elements**:
   - **`reverseList()` Function**: Reverses a linked list in linear time, maintaining the in-place nature without value copying.
   - **`SlowMap<KeyType, DataType>` Class**: Implements an associative data container using a singly linked list structure (`LLNode`) with key-value pairs.
-    - Operations like `set()`, `get()`, `erase()`, `present()`, and `size()` provide functionality to manipulate and traverse the key-value data set.
+	- Operations like `set()`, `get()`, `erase()`, `present()`, and `size()` provide functionality to manipulate and traverse the key-value data set.
+	![Diagram of da6.hpp](da6.svg)
+
 
 ---
 
