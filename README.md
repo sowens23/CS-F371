@@ -47,6 +47,12 @@
 
 # Week-2
 [Top](#TOP)
+## 2024-09-12
+  ### 
+  - An Identity Matrix, is when there is an equal amount of rows and columns, with 1's filling the main diagonal and 0's elsewhere.
+    - You can have an identity matrix of 2x2, 3x3, 10x10, etc.
+  - We can reshape the matrix by transposing a matrix. This is an operation that changes the positions of rows and columns.
+    - 
 ## 2024-09-09
   ### Ethical Frameworks
   - This week we will map out ethical framework, discuss why it's required, and the difference between traditional vs. contemporary ethics.
