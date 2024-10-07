@@ -87,7 +87,8 @@ The `da6_main.cpp` file contains an alternate main function that tests various o
 
 The program showcases efficient use of linked lists and associative data structures in C++, demonstrating best practices for memory management with smart pointers. The `reverseList` function exemplifies in-place list manipulation, while `SlowMap` provides a basic yet flexible key-value store leveraging unique pointers.
 
-SVG mostly created through Overleaf.com ![Link to Overleaf Code](https://www.overleaf.com/read/kmjmxkhmyqvm#a0ec24)
-Futher Edited in InkScape.
+#### SVG Image Creation
+- SVG was created with Overleaf.com [Link to Overleaf Code](https://www.overleaf.com/read/kmjmxkhmyqvm#a0ec24)
+- And then further edited in InkScape!
 
 Thanks to those that peer reviewed this document. And acknowledgement to ChatGPT for assisting with some adaptations to my .svg images.
