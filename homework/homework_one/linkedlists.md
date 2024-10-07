@@ -24,6 +24,7 @@ The program `da6.hpp` is designed to demonstrate two key functionalities: effici
   - **`reverseList()` Function**: Reverses a linked list in linear time, maintaining the in-place nature without value copying.
   - **`SlowMap<KeyType, DataType>` Class**: Implements an associative data container using a singly linked list structure (`LLNode`) with key-value pairs.
 	- Operations like `set()`, `get()`, `erase()`, `present()`, and `size()` provide functionality to manipulate and traverse the key-value data set.
+	
 	![Diagram of da6.hpp](da6.svg)
 
 
