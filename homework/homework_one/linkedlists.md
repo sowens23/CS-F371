@@ -24,7 +24,7 @@ The program `da6.hpp` is designed to demonstrate two key functionalities: effici
   - **`reverseList()` Function**: Reverses a linked list in linear time, maintaining the in-place nature without value copying.
   - **`SlowMap<KeyType, DataType>` Class**: Implements an associative data container using a singly linked list structure (`LLNode`) with key-value pairs.
 	- Operations like `set()`, `get()`, `erase()`, `present()`, and `size()` provide functionality to manipulate and traverse the key-value data set.
-	
+
 	![Diagram of da6.hpp](da6.svg)
 
 
@@ -83,8 +83,8 @@ The `da6_main.cpp` file contains an alternate main function that tests various o
 
 ---
 
-## Conclusion
+## Conclusion and Acknowledgements
 
 The program showcases efficient use of linked lists and associative data structures in C++, demonstrating best practices for memory management with smart pointers. The `reverseList` function exemplifies in-place list manipulation, while `SlowMap` provides a basic yet flexible key-value store leveraging unique pointers.
 
-Feel free to elaborate on each section, add more details to the examples, or ask for further clarification on specific sections. This structure should provide you with a solid foundation for a comprehensive documentation of your code.
+Thanks to those that peer reviewed this document. And acknowledgement to ChatGPT for assisting with some adaptations to my .svg images.
